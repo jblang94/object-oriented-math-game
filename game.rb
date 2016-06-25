@@ -1,5 +1,6 @@
 require 'colorize'
 require_relative './player'
+
 # Provides the interface and logic for the Two Person Math Game
 class Game
 
